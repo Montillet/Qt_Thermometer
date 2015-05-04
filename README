@@ -1,1 +1,1 @@
-here is a simple Qt Gui who display the temperature from an arduino using the UART (Serial port) on graph
+a simple Qt Gui that displays the temperature on a graph
